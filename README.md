@@ -7,3 +7,6 @@
 5. Importazione ed esporto stato di gioco: incompleted
 6. Log: incompleted
 7. localstorage: incompleted
+
+# Bugs
+Ci sono problemi con la mappa quando la dimensione è medio/grande
